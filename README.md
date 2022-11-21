@@ -5,6 +5,7 @@
 ## Erledigt: ##
 ### 1. Einstieg in die Welt der Mikroprozessorboards ###
 ### 2. Erstes Blinken ###
+
 ## Todo: ##
 ### 3. Blinken mit Taster ###
 ### 4. Binäres Zählen ###
